@@ -1,0 +1,61 @@
+body {
+    background-image: url(../images/Background-image.png);
+}
+
+header{
+    height: 80px;
+    width: 100%;
+    background: #ffffff;
+    border-bottom: 2px solid #cccccc;
+}
+.content{
+    width: 960px;
+    margin: 0 auto;
+}
+
+h4 {
+    color: #777777;
+    float: right;
+    padding: 20px;
+}
+
+h1 {
+    background: teal;
+    color: white;
+    float: left;
+    padding: 25px;
+}
+
+h3 {
+    color:teal;
+}
+
+.line {
+    width: 960px;
+    height: 3px;
+    background-color:#cccccc;
+}
+
+.mainbio {
+    padding: 30px;
+    background: white;
+    color:#777777;
+    width: 960px;
+    margin: 30px auto;
+    border:1px solid #dddddd;
+}
+
+.image {
+float: left;
+padding: 15px;
+}
+
+footer {
+    float: left;
+    height: 45px;
+    width: 100%;
+    border-top: 7px solid teal;
+    background-color: #666666;
+    color: white;
+    font-size: 10px;
+}
