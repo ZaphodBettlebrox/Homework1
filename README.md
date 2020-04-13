@@ -1,6 +1,4 @@
-# Project Title
-
-Portfolio One
+# Portfolio One
 
 First more built out website portiflio made soley in HTML and CSS. Portfolio is not accurate for projects but has just reference images.
 
